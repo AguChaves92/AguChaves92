@@ -1,4 +1,4 @@
-![Hi, I'm Luciano](https://github.com/luchomazze/luchomazze/blob/main/assets/PORT.PNG)
+![Hi, I'm Luciano](https://raw.githubusercontent.com/luchomazze/luchomazze/main/assets/PORT.png)
 
 <h2 align="center">
 Electronics Engineer :heart: Full Stack Developer :heart: from Argentina to :earth_americas:
