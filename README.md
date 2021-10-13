@@ -1,7 +1,7 @@
 ![Hi, I'm Agustin](https://raw.githubusercontent.com/AguChaves92/AguChaves92/main/assets/PORT.png)
 
 <h2 align="center">
-Electronics Engineer :heart: Full Stack Developer :heart: from Argentina to :earth_americas:
+Full Stack Developer :heart: from Argentina to :earth_americas:
 </h2>
 
 &nbsp;&nbsp;
